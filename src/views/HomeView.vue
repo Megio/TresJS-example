@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import MeshTest from '../components/MeshTest.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <MeshTest />
   </main>
 </template>
